@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Traditional Bhajans / Kirtans",
+    "title": "Shri Krishna Govind Hare Murari",
+    "artist": "",
+    "album": "",
+    "youtubeSearch": "https://www.youtube.com/results?search_query=Shri+Krishna+Govind+Hare+Murari",
+    "mp3": "./audio/Shri Krishna Govind Hare Murari.mp3"
+  },
+  {
+    "id": 2,
+    "category": "Traditional Bhajans / Kirtans",
+    "title": "Achyutam Keshavam Krishna Damodaram",
+    "artist": "",
+    "album": "",
+    "youtubeSearch": "https://www.youtube.com/results?search_query=Achyutam+Keshavam+Krishna+Damodaram",
+    "mp3": "./audio/Achyutam Keshavam.mp3"
+  },
+  {
+    "id": 3,
+    "category": "Traditional Bhajans / Kirtans",
+    "title": "Radha Gori Gori",
+    "artist": "",
+    "album": "",
+    "youtubeSearch": "https://www.youtube.com/results?search_query=Nand+Ghar+Anand+Bhayo+Jai+Kanhaiya+Lal+Ki",
+    "mp3": "./audio/Radha Gori Gori.mp3"
+  },
+  {
+    "id": 4,
+    "category": "Traditional Bhajans / Kirtans",
+    "title": "Tum Prem Ho",
+    "artist": "Aishwarya Anand, Bharat Kamal",
+    "album": "RadhaKrishn",
+    "youtubeSearch": "https://www.youtube.com/results?search_query=Tum+Prem+Ho",
+    "mp3": "./audio/Tum Prem Ho.mp3"
+  }
+]
