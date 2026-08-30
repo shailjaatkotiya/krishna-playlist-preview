@@ -27,3 +27,5 @@ dist-ssr
 # Remove this line (or add exceptions) once you've confirmed everything
 # you're adding to public/audio/ is music you have the rights to distribute.
 public/audio/*.mp3
+
+.vercel
